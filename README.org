@@ -1,0 +1,10 @@
+* listoflist
+
+functions and infrastructure for listoflist as an xarray-API array management structures.  Goal is to be able to use a subset of xarray's API as appropriate for listoflist data.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/blindglobe/listoflist.git   |
+| commit  | 9d43edc  |
+| systems | listoflist |
+|---------+-------------------------------------------|
+
